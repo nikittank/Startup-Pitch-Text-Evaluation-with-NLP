@@ -10,7 +10,7 @@ To analyze 5–10 real startup pitch decks and extract meaningful signals using 
 ---
 
 ## 📁 Dataset
-Pitch decks in PDF or slide format provided via Google Drive/Notion. Each deck may include:
+Pitch decks in PDF or slide format provided via Google Drive. Each deck may include:
 - Problem Statement
 - Solution
 - Market Size (TAM/SAM/SOM)
