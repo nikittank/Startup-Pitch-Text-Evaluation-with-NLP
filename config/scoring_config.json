@@ -1,0 +1,70 @@
+{
+  "dimension_weights": {
+    "problem_clarity": 0.15,
+    "market_potential": 0.20,
+    "traction_strength": 0.25,
+    "team_experience": 0.15,
+    "business_model": 0.10,
+    "vision_moat": 0.10,
+    "overall_confidence": 0.05
+  },
+  "keyword_mappings": {
+    "problem": ["problem", "pain point", "challenge", "issue", "difficulty", "struggle", "frustration"],
+    "solution": ["solution", "approach", "product", "service", "platform", "technology", "innovation"],
+    "market": ["market", "tam", "sam", "som", "addressable", "opportunity", "billion", "million", "size"],
+    "traction": ["traction", "growth", "users", "revenue", "customers", "mom", "yoy", "metrics", "kpi"],
+    "team": ["team", "founder", "ceo", "cto", "experience", "background", "expertise", "alumni", "previous"],
+    "business_model": ["business model", "monetization", "revenue", "pricing", "subscription", "freemium", "saas"],
+    "vision": ["vision", "moat", "competitive", "advantage", "ip", "patent", "defensible", "proprietary", "unique"]
+  },
+  "scoring_thresholds": {
+    "problem_clarity": {
+      "excellent": 8.0,
+      "good": 6.0,
+      "fair": 4.0,
+      "poor": 2.0
+    },
+    "market_potential": {
+      "excellent": 8.0,
+      "good": 6.0,
+      "fair": 4.0,
+      "poor": 2.0
+    },
+    "traction_strength": {
+      "excellent": 8.0,
+      "good": 6.0,
+      "fair": 4.0,
+      "poor": 2.0
+    },
+    "team_experience": {
+      "excellent": 8.0,
+      "good": 6.0,
+      "fair": 4.0,
+      "poor": 2.0
+    },
+    "business_model": {
+      "excellent": 8.0,
+      "good": 6.0,
+      "fair": 4.0,
+      "poor": 2.0
+    },
+    "vision_moat": {
+      "excellent": 8.0,
+      "good": 6.0,
+      "fair": 4.0,
+      "poor": 2.0
+    },
+    "overall_confidence": {
+      "excellent": 8.0,
+      "good": 6.0,
+      "fair": 4.0,
+      "poor": 2.0
+    }
+  },
+  "confidence_indicators": [
+    "will", "proven", "demonstrated", "validated", "confirmed",
+    "established", "successful", "achieved", "accomplished",
+    "strong", "solid", "robust", "significant", "substantial",
+    "confident", "certain", "definitive", "guaranteed", "assured"
+  ]
+}
