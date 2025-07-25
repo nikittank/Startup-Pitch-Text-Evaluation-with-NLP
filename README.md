@@ -1,6 +1,6 @@
 # 🚀 Startup Pitch Deck Evaluator using NLP
 
-This project builds an AI-powered evaluator that reads real-world startup pitch decks and scores them on key dimensions like Problem Clarity, Market Potential, Traction, Team Experience, and more — helping identify the most investable startups.
+This project builds an Resume evaluator that reads real-world startup pitch decks and scores them on key dimensions like Problem Clarity, Market Potential, Traction, Team Experience, and more — helping identify the most investable startups.
 
 <img width="1669" height="1336" alt="aa" src="https://github.com/user-attachments/assets/4c50e872-912a-4036-8962-09285c35ea6b" />
 
